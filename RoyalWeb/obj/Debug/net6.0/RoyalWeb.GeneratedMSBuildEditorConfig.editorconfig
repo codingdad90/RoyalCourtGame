@@ -1,0 +1,165 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RoyalWeb
+build_property.RootNamespace = RoyalWeb
+build_property.ProjectDir = C:\Users\mauri\source\repos\RoyalCourtGame\RoyalWeb\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\mauri\source\repos\RoyalCourtGame\RoyalWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Characters/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Characters/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Characters/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Characters/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Characters/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Courts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Courts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Courts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Courts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Courts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Holdings/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9sZGluZ3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Holdings/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9sZGluZ3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Holdings/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9sZGluZ3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Holdings/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9sZGluZ3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Holdings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9sZGluZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Houses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Houses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Houses/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Houses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Houses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Palaces/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFsYWNlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Palaces/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFsYWNlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Palaces/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFsYWNlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Palaces/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFsYWNlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Palaces/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFsYWNlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Titles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGl0bGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Titles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGl0bGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Titles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGl0bGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Titles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGl0bGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Titles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGl0bGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mauri/source/repos/RoyalCourtGame/RoyalWeb/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-axeynm3vte

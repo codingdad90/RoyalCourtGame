@@ -1,0 +1,14 @@
+C:\Users\mauri\source\repos\RoyalCourtGame\RoyalClasses\obj\Debug\net6.0\RoyalClasses.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\RoyalCourtGame\RoyalClasses\obj\Debug\net6.0\RoyalClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\RoyalCourtGame\RoyalClasses\obj\Debug\net6.0\RoyalClasses.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\RoyalCourtGame\RoyalClasses\obj\Debug\net6.0\RoyalClasses.AssemblyInfo.cs
+C:\Users\mauri\source\repos\RoyalCourtGame\RoyalClasses\obj\Debug\net6.0\RoyalClasses.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\RoyalCourtGame\RoyalClasses\bin\Debug\net6.0\RoyalClasses.deps.json
+C:\Users\mauri\source\repos\RoyalCourtGame\RoyalClasses\bin\Debug\net6.0\RoyalClasses.runtimeconfig.json
+C:\Users\mauri\source\repos\RoyalCourtGame\RoyalClasses\bin\Debug\net6.0\RoyalClasses.dll
+C:\Users\mauri\source\repos\RoyalCourtGame\RoyalClasses\bin\Debug\net6.0\RoyalClasses.pdb
+C:\Users\mauri\source\repos\RoyalCourtGame\RoyalClasses\obj\Debug\net6.0\RoyalClasses.dll
+C:\Users\mauri\source\repos\RoyalCourtGame\RoyalClasses\obj\Debug\net6.0\refint\RoyalClasses.dll
+C:\Users\mauri\source\repos\RoyalCourtGame\RoyalClasses\obj\Debug\net6.0\RoyalClasses.pdb
+C:\Users\mauri\source\repos\RoyalCourtGame\RoyalClasses\obj\Debug\net6.0\RoyalClasses.genruntimeconfig.cache
+C:\Users\mauri\source\repos\RoyalCourtGame\RoyalClasses\obj\Debug\net6.0\ref\RoyalClasses.dll

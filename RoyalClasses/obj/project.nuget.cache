@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "A+U8wMx58EY3/ZOjvOWqZQ67cQcDP4kIsq/Una8//AKJN8Zb20q2z0RB6JCptIMBni4hYPwWA7A5ICRphhsQew==",
+  "dgSpecHash": "4O7Xn6cJMuugnRD6TIWbwM025kGJa0BYzTrn4rZZtcERTUOeSfdCcFrR95L9t918LqSLG+ckiXByyRSz3OLXew==",
   "success": true,
   "projectFilePath": "C:\\Users\\mauri\\source\\repos\\RoyalCourtGame\\RoyalClasses\\RoyalClasses.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\mauri\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.2\\microsoft.entityframeworkcore.relational.7.0.2.nupkg.sha512",
     "C:\\Users\\mauri\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\7.0.2\\microsoft.entityframeworkcore.sqlite.7.0.2.nupkg.sha512",
     "C:\\Users\\mauri\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\7.0.2\\microsoft.entityframeworkcore.sqlite.core.7.0.2.nupkg.sha512",
+    "C:\\Users\\mauri\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.2\\microsoft.entityframeworkcore.tools.7.0.2.nupkg.sha512",
     "C:\\Users\\mauri\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\mauri\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "C:\\Users\\mauri\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
